@@ -6,8 +6,6 @@
 
 # Free Link Builder
 
-[LinkGecko](https://linkgecko.com/?utm_source=free-link-builder) made these free link building skills for SEO and AEO.
-
 Links from trusted sites can bring software companies buyers, stronger rankings and more mentions in AI answers.
 
 But link building can be expensive. Agency retainers run anywhere from $1,000 to $20,000 a month. If you cannot see what the agency does with that money, the links it delivers can turn out to be worthless.

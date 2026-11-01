@@ -1,0 +1,28 @@
+{
+  "name": "free-link-builder",
+  "displayName": "Free Link Builder",
+  "version": "1.0.0",
+  "description": "Free link building skills for SEO and AEO: link gap audits, outreach, Reddit and forum replies, link quality checks and AI crawler checks.",
+  "author": {
+    "name": "LinkGecko",
+    "email": "support@linkgecko.com",
+    "url": "https://linkgecko.com"
+  },
+  "homepage": "https://github.com/nobodyscode/free-link-builder-linkgecko#readme",
+  "repository": "https://github.com/nobodyscode/free-link-builder-linkgecko",
+  "license": "MIT",
+  "keywords": [
+    "link-building",
+    "backlinks",
+    "seo",
+    "aeo",
+    "reddit",
+    "outreach",
+    "digital-pr"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://github.com/nobodyscode/free-link-builder-linkgecko#readme",
+  "supportUrl": "https://github.com/nobodyscode/free-link-builder-linkgecko/issues",
+  "privacyPolicyUrl": "https://linkgecko.com/policy",
+  "termsOfServiceUrl": "https://linkgecko.com/terms"
+}

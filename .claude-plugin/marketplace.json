@@ -1,0 +1,15 @@
+{
+  "name": "linkgecko-free",
+  "description": "Free link building skills from LinkGecko",
+  "owner": {
+    "name": "LinkGecko",
+    "email": "support@linkgecko.com"
+  },
+  "plugins": [
+    {
+      "name": "free-link-builder",
+      "source": "./",
+      "description": "Link gap audits, outreach, Reddit and forum replies, link quality checks and AI crawler checks."
+    }
+  ]
+}

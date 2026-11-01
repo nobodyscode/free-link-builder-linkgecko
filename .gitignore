@@ -1,0 +1,10 @@
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Reports the skills write when you test them inside this repo
+link-plan-*.md
+reddit-link-plan-*.md
+reddit-search-pack-*.md
+ai-crawler-check-*.md

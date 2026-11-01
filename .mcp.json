@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "linkgecko": {
+      "type": "http",
+      "url": "https://mcp.linkgecko.com"
+    }
+  }
+}
